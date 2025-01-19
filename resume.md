@@ -56,7 +56,7 @@ Experienced in leading stakeholder communications, conflict resolution, and prov
 
 **Project 3: API Development for Business Units (Insurance)**
 
-**Allianz (Germany)**
+**Allianz (Germany)** (current project)
 - Focused on system analysis tasks, API design, and integrations.  
 - Developed API documentation for both consumers and development teams.  
 - Addressed technical dependencies and ensured alignment with business needs.  
