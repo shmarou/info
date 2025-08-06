@@ -60,7 +60,7 @@ _05/2023 - current time_
 
 **Key Achievements:**
 - Delivered scalable solutions across multiple domains with REST API integrations.
-- Successfully led discovery phases, even in cases where requirements were initially undefined.
+- Successfully led discovery phases for new consumers, even in cases where requirements were initially undefined.
 - Provided ongoing support for UAT and iterative improvements post-launch.
 
 ---
