@@ -2,8 +2,8 @@
 ### Andrei Shmarou
 
 **Contact Information:**
-Email: shmarev@hotmail.com | Phone: +48 786 419 502 | Telegram: @Shmarev_BA_SA 
-Address: 43/46 Straganiarska street, apt. 3, Gdansk, Poland 08-847  
+Email: shmarev@hotmail.com | Phone: +48 786 419 502 | Telegram: @Shmarev_BA_SA<br> 
+Address: 43/46 Straganiarska street, apt. 3, Gdansk, Poland 08-847<br>  
 LinkedIn: [linkedin.com/in/andrei-shmarou](https://www.linkedin.com/in/andrei-shmarou-7270478a/)  
 
 ### **Professional Summary**
