@@ -2,7 +2,7 @@
 ### Andrei Shmarou
 
 **Contact Information:**
-Email: shmarou@hotmail.com | Phone: +48 786 419 502  
+Email: shmarev@hotmail.com | Phone: +48 786 419 502 | Telegram: @Shmarev_BA_SA 
 Address: 43/46 Straganiarska street, apt. 3, Gdansk, Poland 08-847  
 LinkedIn: [linkedin.com/in/andrei-shmarou](https://www.linkedin.com/in/andrei-shmarou-7270478a/)  
 
@@ -11,11 +11,12 @@ LinkedIn: [linkedin.com/in/andrei-shmarou](https://www.linkedin.com/in/andrei-sh
 Business and Systems Analyst with 4+ years of experience across e-commerce, telecommunications, and insurance domains.  
 Specializing in end-to-end analysis — from clarifying business needs to designing data flows, APIs, and system interactions.  
 Working closely with business and technical teams by modeling system architecture, specifying interface behavior, and supporting development through delivery.
+Skilled in elaborating integration specifications between systems, including detailed technical documentation, service requirements.
 
 Worked on large-scale enterprise systems with complex architecture and multiple stakeholder groups, ensuring seamless coordination between business, development, and QA teams.
 
 Experienced in requirement gathering, impact analysis, documentation, and validation in Agile environments (Scrum, Kanban).  
-Comfortable navigating corporate workflows, compliance processes, and multi-team collaboration.
+Comfortable navigating corporate workflows, compliance processes, and multi-team collaboration. 
 
 Strong practical background in REST API integration, business process modeling (BPMN, UML), and tools like Postman, Git, Figma, Swagger (OpenAPI).  
 Proactive communicator, able to align diverse viewpoints and maintain clarity in fast-paced or regulated environments.
@@ -32,8 +33,9 @@ Proactive communicator, able to align diverse viewpoints and maintain clarity in
 - Integration Design: REST  
 - Stakeholder Management and Conflict Resolution  
 - User Acceptance Testing (UAT)
+- SQL, ERD
 - Discovery Phase Planning 
-- Technical Documentation and GIT-based Document Management  
+- Technical Documentation and GIT-based Document Management (docs-as-code)  
 - Training and Mentoring Junior Analysts  
 - Trading Knowledge (Forex and International Markets)  
 
