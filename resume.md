@@ -52,6 +52,9 @@ _05/2023 - current time_
 
 **Allianz (Germany)** (current project)
 - Focused on system analysis tasks, API design, and integrations.
+- Worked on a cross-functional project with 200+ teammembers, facilitating communication and alignment with internal and external stakeholders.
+- Used UML and BPMN to visualize system logic and business workflows for clearer stakeholder communication and implementation guidance.
+- Designed RESTful APIs with OpenAPI.
 - Developed API documentation for both consumers and development teams.
 - Addressed technical dependencies and ensured alignment with business needs.
 - Applied JSONata to define and execute business rules for data validation in insurance domain workflows.
@@ -59,6 +62,7 @@ _05/2023 - current time_
 - Created visual representations of system workflows and interactions using UML and BPMN diagrams.
 - Performed acceptance testing for user stories, ensuring alignment with defined criteria.
 - Used Postman to validate and document REST API endpoints, covering both positive and negative scenarios.
+- Investigated and resolved bugs.
 
 **Key Achievements:**
 - Delivered scalable solutions across multiple domains with REST API integrations.
